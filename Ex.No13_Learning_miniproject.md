@@ -58,13 +58,13 @@ app.launch(share=True)
 
 ### Output/Plan:
 
-# 1. Dataset
+#### 1. Dataset
 ![image](https://github.com/AaronDominic/AI_Lab_2023-24/assets/143015231/ac8a0336-1652-4d87-b843-b7cbbc29c8b2)
 
-# 2. Accuracy
+#### 2. Accuracy
 ![image](https://github.com/AaronDominic/AI_Lab_2023-24/assets/143015231/2353b5a1-b447-43d3-a769-11db565b73f6)
 
-# 3. Output Result
+#### 3. Output Result
 ![image](https://github.com/AaronDominic/AI_Lab_2023-24/assets/143015231/15d88535-80f2-4b43-9c21-002ac0462bfb)
 
 
